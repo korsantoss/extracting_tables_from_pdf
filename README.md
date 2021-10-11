@@ -4,12 +4,10 @@ Projeto realizado para extrair tabelas do arquivo "Componente Organizacional.pdf
 
 ### :gear: Configuração Inicial
 
-- Instalação do Python
-- Instalação do Camelot
-- Instalação Ghostscript
+- Instalação do Python (https://www.python.org/downloads/)
+- Instalação do Camelot (!pip install "camelot-py"[cv])
+- Instalação Ghostscript (!apt install ghostscript python3-tk)
 
-- !pip install "camelot-py"[cv]
-- !apt install ghostscript python3-tk
 
 ### :gear: Execução
 
